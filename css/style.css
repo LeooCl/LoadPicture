@@ -1,0 +1,10 @@
+img {
+    max-width: 150px;
+    max-height: 150px;
+    margin: 5px;
+}
+
+.photo {
+    text-align: center;
+    display: block;
+}
